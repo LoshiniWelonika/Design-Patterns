@@ -1,5 +1,6 @@
 package BuilderPattern.com.phone;
 
+//Product Class → The main object that you want to build
 public class Phone {
     private String os;
     private int ram;

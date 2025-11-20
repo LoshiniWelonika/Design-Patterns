@@ -2,7 +2,7 @@ package BuilderPattern.com.phone;
 
 public class Shop {
     public static void main(String[] args) {
-        Phone p = new Phone("Android", 2, "Samsung", 5.5, 3100);
+        Phone p = new PhoneBuilder().setOs("Android").setRam(2).setBattery(3000).build(); 
         System.out.println(p);
     }
 }
