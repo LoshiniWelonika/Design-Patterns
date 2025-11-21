@@ -1,4 +1,6 @@
-package AbstractFactory;
+package AbstractFactory.com.gpu;
+
+import AbstractFactory.com.gpu.Gpu;
 
 public class MsiGpu implements Gpu {
     @Override

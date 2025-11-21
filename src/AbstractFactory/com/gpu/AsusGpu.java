@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactory.com.gpu;
 
 public class AsusGpu implements Gpu {
     @Override
