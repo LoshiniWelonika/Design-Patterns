@@ -1,17 +1,13 @@
 package PrototypePattern;
 
-public class Car implements Prototype{
-    private String brand;
-    private String model;
-    private String color;
-    private String topSpeed;
+public class Car extends Vehicle{
+
+    private int topSpeed;
 
     public Car() {}
 
     public Car(Car car) {
-        this.brand = brand;
-        this.model = model;
-        this.color = color;
+        super(car);
         this.topSpeed = topSpeed;
     }
 
