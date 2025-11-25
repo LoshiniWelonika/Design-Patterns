@@ -1,5 +1,0 @@
-package AbstractFactory.com.gpu;
-
-public interface Gpu {
-    void assemble();
-}
