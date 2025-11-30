@@ -1,4 +1,4 @@
-package AdapterPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class FancyUIService {
     public void displayMenu(JsonData jsonData) {

@@ -1,4 +1,4 @@
-package BridgePattern;
+package StructuralDesignPatterns.BridgePattern;
 
 public abstract class Restaurant {
     protected Pizza pizza;

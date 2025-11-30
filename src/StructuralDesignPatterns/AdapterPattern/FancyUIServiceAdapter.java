@@ -1,4 +1,4 @@
-package AdapterPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class FancyUIServiceAdapter implements IMultiRestoShop{
     private final FancyUIService fancyUIService;

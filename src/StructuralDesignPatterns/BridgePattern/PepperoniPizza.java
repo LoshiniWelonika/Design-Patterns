@@ -1,4 +1,4 @@
-package BridgePattern;
+package StructuralDesignPatterns.BridgePattern;
 
 public class PepperoniPizza extends Pizza{
     @Override

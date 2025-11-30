@@ -1,4 +1,4 @@
-package AdapterPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class MultiRestoApp implements IMultiRestoShop {
     @Override

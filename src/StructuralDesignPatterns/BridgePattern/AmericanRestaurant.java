@@ -1,4 +1,4 @@
-package BridgePattern;
+package StructuralDesignPatterns.BridgePattern;
 
 public class AmericanRestaurant extends Restaurant{
     public AmericanRestaurant(Pizza pizza){
